@@ -1,0 +1,17 @@
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\bin\Debug\net6.0-windows\Lasala,Julia-Ann_my name.exe
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\bin\Debug\net6.0-windows\Lasala,Julia-Ann_my name.deps.json
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\bin\Debug\net6.0-windows\Lasala,Julia-Ann_my name.runtimeconfig.json
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\bin\Debug\net6.0-windows\Lasala,Julia-Ann_my name.dll
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\bin\Debug\net6.0-windows\Lasala,Julia-Ann_my name.pdb
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala,Julia-Ann_my name.csproj.AssemblyReference.cache
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala_Julia_Ann_my_name.Form1.resources
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala,Julia-Ann_my name.csproj.GenerateResource.cache
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala,Julia-Ann_my name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala,Julia-Ann_my name.AssemblyInfoInputs.cache
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala,Julia-Ann_my name.AssemblyInfo.cs
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala,Julia-Ann_my name.csproj.CoreCompileInputs.cache
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala,Julia-Ann_my name.dll
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\refint\Lasala,Julia-Ann_my name.dll
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala,Julia-Ann_my name.pdb
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\Lasala,Julia-Ann_my name.genruntimeconfig.cache
+C:\Users\JULIA-ANN\source\repos\Lasala,Julia-Ann_my name\Lasala,Julia-Ann_my name\obj\Debug\net6.0-windows\ref\Lasala,Julia-Ann_my name.dll

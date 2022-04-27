@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lasala,Julia-Ann_my name/1.0.0": {
+        "runtime": {
+          "Lasala,Julia-Ann_my name.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lasala,Julia-Ann_my name/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
